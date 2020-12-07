@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _CommonSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a357cdb668609453cb6e741cf145e6d5, type: 3}
+    totalSpriteSurfaceArea: 24475
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 974405d3d7f1446e0a304a1d15946e86, type: 3}
+  - {fileID: 21300000, guid: 3ad5da166406d48fc8e0e6ff5cfd5331, type: 3}
+  - {fileID: 21300000, guid: 31fb1d2c78b934b758233c548561c826, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Head
+  - Wheel
+  - Body
+  m_Tag: _CommonSpriteAtlas
+  m_IsVariant: 0
